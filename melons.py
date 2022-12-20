@@ -23,25 +23,25 @@ melon_seedlessness = {
 }
 
 melon_flesh_color = {
-    1: None
-    2: None
-    3: None
-    4: None
+    1: None,
+    2: None,
+    3: None,
+    4: None,
     5: None
 }
 
 melon_rind_color = {
-    1: None
-    2: None
-    3: None
-    4: None
+    1: None,
+    2: None,
+    3: None,
+    4: None,
     5: None
 }
 
 melon_average_weight = {
-    1: None
-    2: None
-    3: None
-    4: None
+    1: None,
+    2: None,
+    3: None,
+    4: None,
     5: None    
 }
